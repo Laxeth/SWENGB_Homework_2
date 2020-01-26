@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie Review</string>
+    <string name="director">Director</string>
+    <string name="plot">Plot</string>
+    <string name="actors">Actors</string>
+    <string name="review_movie">REVIEW MOVIE</string>
+    <string name="review_THIS_movie">REVIEW THIS MOVIE</string>
+</resources>

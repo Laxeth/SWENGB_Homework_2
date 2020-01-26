@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Review</string>
+    <string name="director">Direktor</string>
+    <string name="plot">Inhalt</string>
+    <string name="actors">Schauspieler</string>
+    <string name="review_movie">FILM BEWERTEN</string>
+    <string name="review_THIS_movie">DIESEN FILM BEWERTEN</string>
+</resources>
